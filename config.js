@@ -1,11 +1,11 @@
-global.namaown = "UDMODZ" // Owner Name
-global.namabot = "𝗨𝗗𝗕𝗨𝗚𝗕𝗢𝗧" // Bot name
+global.namaown = "۝AstrO۝" // Owner Name
+global.namabot = "۝AstrO۝" // Bot name
 global.versisc = "2.0" // Vertion
-global.owner = ["92704638406"] // Owners Whatsapp number
-global.tele = "https://t.me/UDMODZ3" // Telegram Channel
+global.owner = ["917085345102"] // Owners Whatsapp number
+global.tele = "https://t.me/JRohluosangEditz" // Telegram Channel
 global.url = "https://www.youtube.com/@UDMODZ" // Yt Channel
-global.namastore = "udmodz" // UBAH NAMA STORE LU
-global.simbol = "😎 " // Emoji in menus
+global.namastore = "۝AstrO۝" // UBAH NAMA STORE LU
+global.simbol = "🖕🏾" // Emoji in menus
 global.wlcmm = []
 global.limitawal = {
     premium: "Infinity",
